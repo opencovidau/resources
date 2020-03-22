@@ -19,3 +19,13 @@
 - [Imperial Report: COVID-19 NPI Modelling](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - [The Response to COVID-19 in Taiwan: Big Data Analytics, New Tech and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689)
 -
+
+## Videos
+
+[![Alt text](https://img.youtube.com/vi/Kas0tIxDvrg/0.jpg)](https://www.youtube.com/watch?v=Kas0tIxDvrg)
+
+[![Alt text](https://img.youtube.com/vi/I9ttpHvK6yw/0.jpg)](https://www.youtube.com/watch?v=I9ttpHvK6yw)
+
+[![Alt text](https://img.youtube.com/vi/C-82e3CA9rU/0.jpg)](https://www.youtube.com/watch?v=C-82e3CA9rU)
+
+[![Alt text](https://img.youtube.com/vi/PWzbArPgo-o/0.jpg)](https://www.youtube.com/watch?v=PWzbArPgo-o)
